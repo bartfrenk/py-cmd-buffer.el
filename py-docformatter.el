@@ -64,7 +64,7 @@ Note that `--in-place' is used by default."
                                           'py-docformatter--call-executable
                                           nil
                                           "py"
-                                          nil)))
+                                          t)))
 
 
 ;;;###autoload
